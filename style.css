@@ -51,6 +51,11 @@ nav .logo {
   background-color: #0a9c7d;
   color: white;
 }
+iframe {
+  background-color: black;
+  padding: 3%;
+  width: 90%;
+}
 .section2_2 {
   width: 8000px;
   padding: 40px;
@@ -129,6 +134,11 @@ nav .logo {
     padding: 30px;
     background-color: #0a9c7d;
   color: white;
+  }
+  iframe {
+    background-color: black;
+    padding: 3%;
+    width: 90%;
   }
   .section2_2 {
     padding: 30px;
